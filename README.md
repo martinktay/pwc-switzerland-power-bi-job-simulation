@@ -1,4 +1,4 @@
-# pwc-power-bi-dashboard
+# PwC Switzerland Power BI Dashboard
 
 
 I recently participated in PwC's virtual job simulation on the Forage platform, and it was incredibly useful to learn about how to use PowerBI more effectively.
